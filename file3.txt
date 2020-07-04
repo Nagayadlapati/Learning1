@@ -1,2 +1,3 @@
 these new third file
 this is second line on file3.txt
+this is third line on file3.txt
