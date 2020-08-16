@@ -1,4 +1,0 @@
-Hi this is first line
-hi this second line
-test git integration
-Test
