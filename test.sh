@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set +x 
+
 cd $WORKSPACE
 mkdir test_dir
 
