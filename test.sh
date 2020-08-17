@@ -2,7 +2,7 @@
 
 set +x 
 MY_DIR=$1
-MY_file=$2
+MY_FILE=$2
 cd $WORKSPACE
 mkdir $MY_DIR
 
